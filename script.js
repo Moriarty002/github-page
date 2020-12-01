@@ -6,9 +6,7 @@ link[2] = "https://forms.gle/hpCsMszSrzAYULF86";
 link[3] = "https://forms.gle/mogDeDHFwVPwuupL6";
 link[4] = "https://forms.gle/hfq5X9byQD1BDTi96";
 link[5] = "https://forms.gle/YrR2bBdrvLRmzaHQ7";
-link[6] = "https://forms.gle/3Ar7CdncNqBzRfy39";
-link[7] = "https://forms.gle/nC3VKJHRNy3MQfj67";
-link[8] = "https://forms.gle/RZvgAxskKPJWBHRt7";
+
 
 
 function choice(){
