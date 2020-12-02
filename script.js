@@ -10,7 +10,7 @@ link[5] = "https://forms.gle/YrR2bBdrvLRmzaHQ7";
 
 
 function choice(){
-    var target_link = link[Math.floor(Math.random()*9)]; // the number "9" is the number of your links , if link change remember to change 
+    var target_link = link[Math.floor(Math.random()*5)]; // the number "9" is the number of your links , if link change remember to change 
     var t = document.getElementById("needlink");
     t.href = target_link;
 }
